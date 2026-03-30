@@ -24,7 +24,7 @@ Le dataset contient 9995 lignes et 13 variables :
 
 
 
-## Tableau de bord
+### Tableau de bord
 
 ### Vue globale
 ![Dashboard](dashboard/dashboard.png)
