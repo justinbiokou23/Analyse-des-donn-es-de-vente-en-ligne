@@ -24,10 +24,10 @@ Le dataset contient 9995 lignes et 13 variables :
 
 
 
-### Tableau de bord
+##  Tableau de bord
 
 ### Vue globale
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Tableau_de_bord_global.png)
 
 ### Profit par catégorie
 ![Category](dashboard/profit_category.png)
